@@ -1,0 +1,6 @@
+21:20:33.119 INFO  [main] - Server accepting connections on tcp://172.20.10.2:3035/
+21:20:33.121 INFO  [main] - JNDI service accepting connections on tcp://172.20.10.2:3035/
+21:20:33.122 INFO  [main] - Admin service accepting connections on tcp://172.20.10.2:3035/
+21:20:33.270 INFO  [main] - Server accepting connections on rmi://172.20.10.2:1099/
+21:20:33.271 INFO  [main] - JNDI service accepting connections on rmi://172.20.10.2:1099/
+21:20:33.271 INFO  [main] - Admin service accepting connections on rmi://172.20.10.2:1099/
